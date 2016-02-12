@@ -1,0 +1,25 @@
+{
+  "name": "on_boarding_wizard",
+  "description": "User On-boarding Wizard",
+  "main": "index.js",
+  "authors": [
+    "Vinayaka V Patil"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0",
+    "bootstrap": "^3.3.6",
+    "angular-animate": "^1.5.0",
+    "angular-bootstrap": "^1.1.2"
+  }
+}
